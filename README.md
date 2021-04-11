@@ -22,7 +22,7 @@
 
 O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em ReactJS com NextJS para implementação de um dashboard.
 
-A aplicação foi desenvolvida utilizando o framework NextJS utilizando o Chakra-ui para montagem da interface, React-Hook-Form para gerenciamento dos formulários, Yup para validação de formulários
+A aplicação foi desenvolvida utilizando o framework NextJS utilizando o Chakra-ui para montagem da interface, React-Hook-Form para gerenciamento dos formulários, Yup para validação de formulários, MirageJS para simular uma API.
 
 O projeto foi desenvolvido como pratica das aulas do modulo 04 do [Ignite da Rocketseat](https://rocketseat.com.br/)
 
@@ -38,6 +38,7 @@ Abaixo as tecnologias utilizadas para construção da aplicação
 - [Chakra-ui](https://chakra-ui.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
+- [MirageJS](https://miragejs.com/)
 
 ---
 
