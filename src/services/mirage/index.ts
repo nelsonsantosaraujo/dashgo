@@ -52,6 +52,8 @@ export function makeServer() {
           { users }
         );
       });
+
+      this.get('/users/:id');
       this.post('/users');
 
       // Altera o namespace para vazio para não dar conflito com a API Root do Next
