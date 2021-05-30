@@ -13,10 +13,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-<p align="center">
-	🚧 Em Desenvolvimento 🚧
-</p>
-
 
 ## Sobre o projeto
 
